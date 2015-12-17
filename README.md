@@ -8,11 +8,13 @@ IoC - spring
 security - spring-security
 CVS - git
 build system - gradle
-
+elasticsearch
 
 
 CI -jenkins, gitlab or github, where deploy
 
 frontend:
 AngularJS
+grunt
+jquery
 
